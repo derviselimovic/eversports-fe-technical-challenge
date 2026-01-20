@@ -12,3 +12,4 @@
 - syntax checks
 - mostly assisted for code completion where AI successfully predicted my wanted output
 - cursor based pagination
+- bootstrapped styling for the MultiSelect

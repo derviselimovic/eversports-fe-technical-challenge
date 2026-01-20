@@ -1,6 +1,8 @@
 # Frontend Interview Challenge
 
-Spent time: ~ 11h
+Spent time: ~ 11h.
+
+[AI Support](AI-SUPPORT.md)
 
 ## Tech Stack
 
