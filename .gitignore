@@ -1,0 +1,43 @@
+.DS_Store
+node_modules/
+.idea/
+.vscode/
+
+# Next / build outputs
+.next/
+.next/cache/
+out/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Test & coverage
+coverage/
+.nyc_output/
+test-results/
+playwright-report/
+
+# Caches & tooling
+.cache/
+.parcel-cache/
+.eslintcache
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Misc
+.DS_Store
+*.swp
+*.swo
